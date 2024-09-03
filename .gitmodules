@@ -1,0 +1,18 @@
+[submodule "Maven"]
+	path = Maven
+	url = https://github.com/rakesh-vardan/Learn_TA_Maven
+[submodule "TestNG"]
+	path = TestNG
+	url = https://github.com/rakesh-vardan/Learn_TA_TestNG
+[submodule "Selenium"]
+	path = Selenium
+	url = https://github.com/rakesh-vardan/Learn_TA_Selenium
+[submodule "TestAutomationFramework"]
+	path = TestAutomationFramework
+	url = https://github.com/rakesh-vardan/Learn_TestAutomationFramework
+[submodule "Cucumber"]
+	path = Cucumber
+	url = https://github.com/rakesh-vardan/Learn_TA_CucumberBDD
+[submodule "APITesting"]
+	path = APITesting
+	url = https://github.com/rakesh-vardan/Learn_TA_APITesting
