@@ -16,3 +16,6 @@
 [submodule "APITesting"]
 	path = APITesting
 	url = https://github.com/rakesh-vardan/Learn_TA_APITesting
+[submodule "Jenkins"]
+	path = Jenkins
+	url = https://github.com/rakesh-vardan/Learn_TA_Jenkins.git
