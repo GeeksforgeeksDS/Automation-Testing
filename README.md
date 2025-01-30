@@ -6,11 +6,11 @@ This repository serves as a comprehensive resource for various topics and tools 
 
 ### Maven
 - **Description**: Maven is a build automation tool used primarily for Java projects. It simplifies the build process by managing dependencies and configurations. This submodule contains examples and configurations for integrating Maven into automation projects.
-- **Repository URL**: [Maven]([https://github.com/rakesh-vardan/Learn_TA_Maven](https://github.com/rakesh-vardan/Learn_TA_Maven/tree/d77da57f1ab0afb5503ded75d72e4123a90cbd36)
+- **Repository URL**: [Maven](https://github.com/rakesh-vardan/Learn_TA_Maven/tree/d77da57f1ab0afb5503ded75d72e4123a90cbd36)
 
 ### TestNG
 - **Description**: TestNG is a testing framework inspired by JUnit and NUnit. It provides a range of features for running and managing tests, such as annotations, parallel execution, and configuration. This submodule includes TestNG setup and example tests.
-- **Repository URL**: [TestNG]([https://github.com/rakesh-vardan/Learn_TA_TestNG](https://github.com/rakesh-vardan/Learn_TA_TestNG/tree/e5a9e2f07465e6d67419fdf3ee67cea8ab63709d)
+- **Repository URL**: [TestNG](https://github.com/rakesh-vardan/Learn_TA_TestNG/tree/e5a9e2f07465e6d67419fdf3ee67cea8ab63709d)
 
 ### Selenium
 - **Description**: Selenium is a powerful tool for browser automation. It allows you to automate web applications for testing purposes across different browsers and platforms. This submodule provides examples and configurations for using Selenium WebDriver.
@@ -31,7 +31,7 @@ This repository serves as a comprehensive resource for various topics and tools 
 ### Jenkins
 - **Description**: This submodule focuses on understanding the basics of Jenkins in Test Automation.
 - **Repository URL**: [Jenkins](https://github.com/rakesh-vardan/Learn_TA_Jenkins/tree/9aa9d0864c6b412738d54f58a6d687e9391e4a0e)
-- 
+
 ## Getting Started
 
 To get started with any of the submodules, clone the main repository and initialize the submodules:
